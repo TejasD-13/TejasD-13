@@ -70,11 +70,4 @@
 - Deep Learning (CNNs, Neural Networks)  
 - Advanced DSA & problem-solving  
 
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn  
-- 💻 GitHub  
-- 🧠 LeetCode  
-
 ⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
